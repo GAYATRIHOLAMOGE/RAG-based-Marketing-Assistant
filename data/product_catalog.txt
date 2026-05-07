@@ -1,0 +1,152 @@
+=====================================
+BRAND: NovaSpark Electronics
+PRODUCT CATALOG 2025
+=====================================
+
+--- PRODUCT: NovaPhone X12 ---
+Category: Smartphones
+Price: $799
+Launch Date: March 2025
+
+Description:
+The NovaPhone X12 is our flagship smartphone featuring a 6.7-inch AMOLED display with 120Hz refresh rate. Powered by our custom NovaSpark A5 chip, it delivers 40% faster performance than previous generation. The 200MP main camera system with AI-enhanced night mode captures stunning photos in any lighting condition.
+
+Key Features:
+- 6.7-inch AMOLED 120Hz display
+- NovaSpark A5 processor (3nm)
+- 200MP main + 50MP ultrawide + 30MP telephoto camera system
+- 6000mAh battery with 80W fast charging
+- 5G connectivity
+- 12GB RAM / 256GB storage
+- IP68 water resistance
+- Available in Midnight Black, Arctic Silver, Aurora Blue
+
+Warranty: 2 years manufacturer warranty
+
+---
+
+--- PRODUCT: NovaTab Pro ---
+Category: Tablets
+Price: $649
+Launch Date: January 2025
+
+Description:
+The NovaTab Pro is a productivity-first tablet with a 12-inch OLED display. Designed for professionals and creatives, it supports the NovaPen 3 stylus with zero-latency drawing. The tablet runs NovaSpark OS 3.0 with desktop-class multitasking.
+
+Key Features:
+- 12-inch OLED display, 2800x2100 resolution
+- NovaSpark A4 chip
+- Compatible with NovaPen 3 stylus (sold separately, $99)
+- 10,000mAh battery, 12-hour battery life
+- 8GB RAM / 128GB or 256GB storage
+- Wi-Fi 6E + optional LTE
+- USB-C with Thunderbolt 4 support
+- MagSafe keyboard folio compatible
+
+Warranty: 1 year manufacturer warranty, extendable to 3 years
+
+---
+
+--- PRODUCT: NovaBuds Ultra ---
+Category: Audio
+Price: $249
+Launch Date: February 2025
+
+Description:
+NovaBuds Ultra are our premium true wireless earbuds with industry-leading Active Noise Cancellation (ANC). The custom 11mm dynamic drivers deliver audiophile-quality sound with deep bass and crystal-clear highs.
+
+Key Features:
+- 40dB Active Noise Cancellation
+- 11mm custom dynamic drivers
+- Hi-Res Audio certified
+- 8 hours playback (32 hours with case)
+- IPX5 sweat and water resistant
+- Multipoint connection (2 devices simultaneously)
+- Adaptive EQ and spatial audio
+- Available in Jet Black, Pearl White, Sage Green
+
+Warranty: 1 year manufacturer warranty
+
+---
+
+--- PRODUCT: NovaWatch S3 ---
+Category: Wearables
+Price: $399
+Launch Date: April 2025
+
+Description:
+The NovaWatch S3 is our most advanced smartwatch with comprehensive health tracking and 10-day battery life. The Always-On Retina display provides glanceable information without draining the battery.
+
+Key Features:
+- 1.9-inch Always-On AMOLED display
+- Health suite: ECG, blood oxygen, stress, sleep tracking
+- GPS + GLONASS navigation
+- 10-day battery life (4 days with AoD on)
+- 5ATM water resistance (50m)
+- NFC for contactless payments
+- Compatible with iOS and Android
+- 100+ workout modes
+
+Warranty: 2 years manufacturer warranty
+
+---
+
+--- PRODUCT: NovaCam 360 ---
+Category: Cameras
+Price: $329
+Launch Date: May 2025
+
+Description:
+NovaCam 360 is an action camera that records 8K 360-degree video and 4K standard footage at 120fps. Designed for adventure enthusiasts, it's rugged, waterproof, and packed with stabilization technology.
+
+Key Features:
+- 8K 360° video / 4K 120fps standard
+- 6-axis HyperSmooth stabilization
+- Waterproof to 10m without housing
+- 2-inch touchscreen + 1.4-inch front display
+- Live streaming at 1080p
+- Voice control
+- 90-minute battery life (4K recording)
+- Compatible with all GoPro accessories
+
+Warranty: 1 year manufacturer warranty
+
+---
+
+--- PRODUCT: NovaSpark Hub ---
+Category: Smart Home
+Price: $149
+Launch Date: March 2025
+
+Description:
+The NovaSpark Hub is the central controller for your smart home. It supports Matter, Zigbee, Z-Wave, and Wi-Fi protocols, making it compatible with thousands of smart devices from any brand.
+
+Key Features:
+- Supports Matter, Thread, Zigbee, Z-Wave, Wi-Fi 6
+- Controls up to 200 smart home devices
+- Built-in NovaSpark AI assistant
+- Privacy-first: all processing done on-device
+- Ethernet + Wi-Fi connectivity
+- Backup battery for 4-hour power outage protection
+- Compatible with Apple HomeKit, Google Home, Amazon Alexa
+
+Warranty: 2 years manufacturer warranty
+
+=====================================
+PRICING & BUNDLES
+=====================================
+
+NovaPhone X12 + NovaBuds Ultra Bundle: $999 (save $49)
+NovaTab Pro + NovaPen 3 Bundle: $699 (save $49)
+NovaWatch S3 + NovaBuds Ultra Bundle: $599 (save $49)
+Smart Home Starter Pack (NovaSpark Hub + 2 NovaPlugs): $199 (save $30)
+
+=====================================
+WARRANTY & SUPPORT
+=====================================
+
+- All products include manufacturer warranty (duration varies by product)
+- Extended warranty plans available at purchase
+- 24/7 customer support via chat, email, or phone: 1-800-NOVASPARK
+- Authorized service centers in 50+ countries
+- 30-day return policy for unused products
